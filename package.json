@@ -1,5 +1,7 @@
+
+
 { 
-    "name": "GURU",
+    "name": "GOKU GURU BOT",
     "version": "0.0.1",
     "description": "Customizable WhatsApp Bot",
     "main": "index.js",
